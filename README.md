@@ -1,4 +1,4 @@
-# noboru.matsunaga Portfolio
+# Noboru.Matsunaga Portfolio
 
 ## エディタ拡張
 FontReplacer
