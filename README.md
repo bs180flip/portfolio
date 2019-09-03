@@ -1,5 +1,4 @@
 # Noboru.Matsunaga Portfolio
-https://github.com/bs180flip/portfolio/blob/master/README.md
 
 ## エディタ拡張
 FontReplacer
