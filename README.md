@@ -5,6 +5,12 @@
 
 https://apps.apple.com/jp/app/%E3%81%84%E3%81%AA%E3%81%84%E3%81%84%E3%81%AA%E3%81%84%E3%81%B0%E3%81%81-%E5%8B%95%E7%89%A9%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87/id1637791573?uo=4
 
+## UnityRoom　1週間GameJame
+pubg
+https://unityroom.com/games/pubg
+
+The Lost Zodiac 〜失われた星座〜
+https://unityroom.com/games/lostthezodiac
 
 ## エディタ拡張
 FontReplacer
